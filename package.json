@@ -1,0 +1,23 @@
+{
+  "name": "cli-countdown",
+  "version": "1.0.0",
+  "description": "A countdown inside your favorite cli",
+  "author": "Guilherme Reginaldo Ruella <potentii@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Potentii/cli-countdown.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Potentii/cli-countdown/issues"
+  },
+  "homepage": "https://github.com/Potentii/cli-countdown#readme",
+  "dependencies": {
+    "dotenv": "4.0.0",
+    "node-notifier": "5.0.2",
+    "os-locale": "2.0.0"
+  }
+}
